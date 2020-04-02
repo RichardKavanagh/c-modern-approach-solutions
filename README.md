@@ -2,7 +2,7 @@
  My Solutions to Exercises in "C Programming: A Modern Approach", by  K. N. King
 
 <p align="center">
-	<img src="book_cover.jpg" width="233" height="280"/>
+	<img src="misc/book_cover.jpg" width="233" height="280"/>
 </p>
 
 
