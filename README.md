@@ -5,6 +5,11 @@
 	<img src="misc/book_cover.jpg" width="233" height="280"/>
 </p>
 
+## Where to find the book
+
+- [offical site](http://knking.com/books/c2/answers/index.html)
+- [purchase on Amazon](https://www.amazon.co.uk/C-Programming-Modern-Approach-King/dp/0393979504)
+
 ## Information
 
 All code was developed and compiled on an x86_64 RHEL 7.8 machine with gcc 4.8.5 using C89 or C99.
