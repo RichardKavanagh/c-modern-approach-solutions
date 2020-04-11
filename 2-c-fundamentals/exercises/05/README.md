@@ -9,7 +9,7 @@ Which of the following are not legal C identifiers?
 
 ###  Solution
 
-(a) had an invalid suffix, identifiers cannot begin with an number (must begin with a letter or underscore)
+(a) has an invalid suffix, identifiers cannot begin with a number (must begin with a letter or underscore)
 
 ```
 1.c: In function ‘main’:

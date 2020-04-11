@@ -5,4 +5,4 @@ Condense the ```dweight.c``` program by (1) replacing the assignments to ```heig
 
 ###  Solution
 
-See 1.c
+See 3.c

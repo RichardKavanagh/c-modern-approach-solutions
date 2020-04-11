@@ -5,9 +5,9 @@ Is there any pattern to the values? (Usually there isn't.)
 
 ###  Solution
 
-See 1.c
+See 4.c
 
-Output is random or default to 0 for uninitialized variables
+Output is random or defaults to 0 for uninitialized variables
 
 ```
 0

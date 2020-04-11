@@ -14,6 +14,15 @@
 
 All code was developed and compiled on an x86_64 RHEL 7.8 machine with gcc 4.8.5 using C89 or C99.
 
+## Useful links
+
+- [GCC, the GNU Compiler Collection](https://gcc.gnu.org/)
+- [GDB,  The GNU Project Debugger](https://www.gnu.org/software/gdb/)
+- [Valgrind, ](http://valgrind.org/)
+- [Splint, (Secure lint)](https://splint.org/)
+- [C99 Standard](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
+
+
 ## License
 
 Any code taken direcly from the book has the copyright notice as stated in `license.txt`.
