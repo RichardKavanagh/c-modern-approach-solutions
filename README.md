@@ -12,13 +12,13 @@
 
 ## Information
 
-All code was developed and compiled on an x86_64 RHEL 7.8 machine with gcc 4.8.5 using C89 or C99.
+All code was developed and compiled on an x86_64 RHEL 7.8 machine with gcc 4.8.5 using the C89 or C99 standards.
 
 ## Useful links
 
 - [GCC, the GNU Compiler Collection](https://gcc.gnu.org/)
 - [GDB,  The GNU Project Debugger](https://www.gnu.org/software/gdb/)
-- [Valgrind, ](http://valgrind.org/)
+- [Valgrind](http://valgrind.org/)
 - [Splint, (Secure lint)](https://splint.org/)
 - [C99 Standard](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
 
