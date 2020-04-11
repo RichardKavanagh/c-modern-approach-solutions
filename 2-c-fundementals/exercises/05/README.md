@@ -2,10 +2,10 @@
 
 Which of the following are not legal C identifiers?
 
-(a) 100_bottles
-(b) _100_bottles
-(c) one_hundres_bottles
-(d) bottles_by_the_
+- (a) 100_bottles
+- (b) _100_bottles
+- (c) one_hundres_bottles
+- (d) bottles_by_the_
 
 ###  Solution
 

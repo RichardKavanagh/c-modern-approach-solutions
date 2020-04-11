@@ -7,8 +7,8 @@
 
 ## Where to find the book
 
-- [offical site](http://knking.com/books/c2/answers/index.html)
-- [purchase on Amazon](https://www.amazon.co.uk/C-Programming-Modern-Approach-King/dp/0393979504)
+- [K.N. Kings's offical site](http://knking.com/books/c2/answers/index.html)
+- [Purchase on Amazon](https://www.amazon.co.uk/C-Programming-Modern-Approach-King/dp/0393979504)
 
 ## Information
 
