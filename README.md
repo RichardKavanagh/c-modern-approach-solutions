@@ -1,5 +1,5 @@
 # c-modern-approach-solutions
- My Solutions to the exercises in "C Programming: A Modern Approach", by  K. N. King
+ My solutions to the exercises in "C Programming: A Modern Approach", by  K. N. King
 
 <p align="center">
 	<img src="misc/book_cover.jpg" width="233" height="280"/>
@@ -16,10 +16,10 @@ All code was developed and compiled on an x86_64 RHEL 7.8 machine with gcc 4.8.5
 
 ## Useful links
 
-- [GCC, the GNU Compiler Collection](https://gcc.gnu.org/)
-- [GDB,  The GNU Project Debugger](https://www.gnu.org/software/gdb/)
+- [GCC, The GNU Compiler Collection](https://gcc.gnu.org/)
+- [GDB, The GNU Project Debugger](https://www.gnu.org/software/gdb/)
 - [Valgrind](http://valgrind.org/)
-- [Splint, (Secure lint)](https://splint.org/)
+- [Splint (Secure lint)](https://splint.org/)
 - [C99 Standard](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
 
 
