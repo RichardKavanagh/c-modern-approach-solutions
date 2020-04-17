@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	int twenty_bills, ten_bills, five_bills;
 	int amount;
 

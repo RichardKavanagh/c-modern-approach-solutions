@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	int input;
 	
 	printf("%s", "Enter a number between 0 and 32767: ");
@@ -17,4 +16,3 @@ int main(void)
 
 	return 0;
 }
-

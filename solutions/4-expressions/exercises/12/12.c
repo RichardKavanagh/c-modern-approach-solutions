@@ -2,24 +2,25 @@
 
 int main(void)
 {
-
 	int i, j;
-	
-	i = 6;
-    j = i += i;
+
+	i = 5;
+    j = ++i * 3 - 2;
     printf("%d %d\n", i, j);
 
     i = 5;
-    j = (i -= 2) + 1;
+    j = 3 - 2 * i++;
     printf("%d %d\n", i, j);
 
     i = 7;
-    j = 6 + (i = 2.5);
+    j = 3 * i-- + 2;
     printf("%d %d\n", i, j);
 
-    i = 2; j = 8;
-    j = (i = 6) + (j = 3);
+    i = 7;
+    j = 3 + --i * 2;
     printf("%d %d\n", i, j);
 
 	return 0;
 }
+
+

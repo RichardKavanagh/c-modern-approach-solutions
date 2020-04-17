@@ -12,7 +12,7 @@
 
 ## Information
 
-All code was developed and compiled on an x86_64 RHEL 7.8 machine with gcc 4.8.5 using the C89 or C99 standards.
+All code was developed and compiled on an x86_64 RHEL 7.8 machine with gcc 4.8.5 with the C89 or C99 standard.
 
 ## Useful links
 

@@ -1,6 +1,5 @@
 int main(void)
 {
-
 	int 100_bottles;
 	int _100_bottles;
 	int one_hundres_bottles;

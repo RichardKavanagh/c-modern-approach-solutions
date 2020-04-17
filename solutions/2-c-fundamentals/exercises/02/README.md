@@ -22,7 +22,6 @@ int main(void)
 
 Line 1 ```#include "stdio.h"``` is a directive,  lines 7 - 8 are statements.
 
-
 **(b)**
 
 The program produces the following output

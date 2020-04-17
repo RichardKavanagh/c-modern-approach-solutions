@@ -4,7 +4,6 @@
 
 int main(void)
 {
-
 	int height = 8, length = 12, width = 10, volume;
 	volume = height * length * width;
 

@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	int a, b, c, d, e;
 	float f, g, h, i;
 

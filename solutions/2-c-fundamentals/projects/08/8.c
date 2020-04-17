@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	float loan, interest_rate, payment;
 	printf("%s", "Enter amount of loan: ");
 	scanf("%f", &loan);

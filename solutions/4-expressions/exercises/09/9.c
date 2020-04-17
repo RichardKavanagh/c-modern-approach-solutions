@@ -2,7 +2,6 @@
 
 int main(void)
 {
-	
 	int i = 7;
 	int j = 8;
 	i *= j + 1;
