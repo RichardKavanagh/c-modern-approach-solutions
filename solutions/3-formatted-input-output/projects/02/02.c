@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	float item_price;
 	int item_num, day, month, year;
 

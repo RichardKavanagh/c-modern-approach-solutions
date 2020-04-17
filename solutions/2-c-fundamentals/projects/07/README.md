@@ -17,4 +17,4 @@ Repeat for the other bill sizes. Be sure to use integer values throughout, not f
 
 ### Solution
 
-See 7.c
+See ```07.c```

@@ -9,4 +9,4 @@ With tax added: $105.00
 
 ### Solution
 
-See 4.c
+See ```04.c```

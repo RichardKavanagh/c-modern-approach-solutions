@@ -20,4 +20,4 @@ Test your program with actual ISBN values (usually found on the back cover of a 
 
 ### Solution
 
-See `3.c`.
+See ```03.c```

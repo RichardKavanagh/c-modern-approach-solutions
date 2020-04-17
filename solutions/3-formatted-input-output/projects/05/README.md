@@ -22,4 +22,4 @@ The magic square shown here appears in a 1514 engraving by artist and mathematic
 
 ### Solution
 
-See 5.c
+See ```05.c```

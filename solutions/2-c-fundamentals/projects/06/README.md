@@ -8,4 +8,4 @@ Note that the modified program performs fewer multiplications. This technique fo
 
 ### Solution
 
-See 6.c
+See ```06.c```

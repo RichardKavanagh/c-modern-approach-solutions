@@ -13,7 +13,11 @@ distinguished.
 
 ### Solution
 
-- (a) Both are functionally equivalent, white-space characters in the format string do not force white-space characters to be read.
-- (b) Both are functionally equivalent for the same reason given in (a)
-- (c) Is not equivalent because the trailing space is required in input
-- (d) Both are functionally equivalent for the same reason given in (a)
+
+(a) Both are functionally equivalent, white-space characters in the format string do not force white-space characters to be read.
+
+(b) Both are functionally equivalent for the same reason given in (a)
+
+(c) Is not equivalent because the trailing space is required in input
+
+(d) Both are functionally equivalent for the same reason given in (a)

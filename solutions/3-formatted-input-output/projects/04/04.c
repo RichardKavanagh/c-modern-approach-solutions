@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	int prefix, area_code, house;
 	
 	printf("%s", "Enter phone number [(xxx) xxx-xxxx]: ");

@@ -20,8 +20,11 @@ Show the output produced by each of the following program fragments. Assume that
 ### Solution
 
 (a) 63
+
 (b) 3, 2, 1
+
 (c) 2,-1, 3
+
 (d) 0, 0, 0
 
-See 9.c
+See ```09.c```

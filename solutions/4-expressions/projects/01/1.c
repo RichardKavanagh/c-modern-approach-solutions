@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	int input, first_digit, second_digit;
 
 	printf("%s", "Enter a two-digit number: ");

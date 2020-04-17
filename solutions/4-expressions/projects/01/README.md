@@ -10,4 +10,4 @@ The reversal is: 82
 
 ### Solution
 
-See 1.c
+See ```01.c```

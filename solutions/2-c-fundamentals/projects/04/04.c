@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	float amount = 0.0f;
 	printf("%s", "Enter an amount:");
 	scanf("%f", &amount);

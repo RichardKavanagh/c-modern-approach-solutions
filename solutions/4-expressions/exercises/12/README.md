@@ -19,9 +19,12 @@ Show the output produced by each of the following program fragments. Assume that
 
 ### Solution
 
-(a) 
-(b)
-(c)
-(d)
+(a) 6, 16
 
-See 12.c
+(b) 6, -7
+
+(c) 6, 23
+
+(d) 6, 15
+
+See ```12.c```

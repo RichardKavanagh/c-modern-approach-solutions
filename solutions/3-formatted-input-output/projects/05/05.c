@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	int n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11, n12, n13, n14, n15, n16;
 
 	printf("%s\n", "Enter the numbers from 1 to 16 in any order:");

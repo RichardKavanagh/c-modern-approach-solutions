@@ -4,7 +4,6 @@
 
 int main(void)
 {
-
 	int num1, denom1, num2, denom2, result_num, result_denom;
 
 	printf("%s", "Enter two fractions seperated by a plus sign: ");
@@ -17,4 +16,3 @@ int main(void)
 
 	return 0;
 }
-

@@ -1,6 +1,6 @@
 ### C Fundementals - Projects 2.08
 
-Write a program that calculates the remaining balance on a loan after the first, second, and third monthly payments:
+Write a program that calculates the remaining balance on a loan after the first, second and third monthly payments:
 
 ```
 Enter amount of loan: 20000.00
@@ -19,4 +19,4 @@ convert the interest rate entered by the user to a percentage and divide it by 1
 
 ### Solution
 
-See 8.c
+See ```08.c```

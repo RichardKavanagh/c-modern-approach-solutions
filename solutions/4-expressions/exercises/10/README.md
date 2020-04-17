@@ -21,8 +21,11 @@ Show the output produced by each of the following program fragments. Assume that
 ### Solution
 
 (a) 12, 12
+
 (b) 3, 4
+
 (c) 2, 8
+
 (d) 6, 9
 
-See 10.c
+See ```10.c```

@@ -5,4 +5,4 @@ Justify your answer.
 
 ### Solution
 
-See 2.c for script
+See ```02.c```

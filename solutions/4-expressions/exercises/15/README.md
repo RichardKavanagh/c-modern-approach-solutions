@@ -13,8 +13,11 @@ Give the values of ```i``` and ```j``` after each of the following expression st
 ### Solution
 
 (a) 3, 2
+
 (b) 2, 2
+
 (c) 2, 2
+
 (d) 2, 2
 
-See 15.c
+See ```15.c```

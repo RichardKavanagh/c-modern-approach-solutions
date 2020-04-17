@@ -9,4 +9,4 @@ The sum is 38/24
 
 ### Solution
 
-See 6.c
+See ```06.c```

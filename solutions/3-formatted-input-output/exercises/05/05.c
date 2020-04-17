@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	float x, y;
 	int i;
 

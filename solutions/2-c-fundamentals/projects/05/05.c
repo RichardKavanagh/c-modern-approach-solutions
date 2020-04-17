@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	int x, x_squared, x_cubed, x_quad, x_pent;
 	int result;
 

@@ -6,7 +6,6 @@
 
 int main(void)
 {
-
 	int gsi_prefix, group_identifier, publisher_code, item_number, check_digit; 
 
 	printf("%s", "Enter ISBN: ");	

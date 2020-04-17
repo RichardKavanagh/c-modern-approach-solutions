@@ -5,4 +5,4 @@ to split the number into digits. Hint: See the ```upc.c``` program of Section 4.
 
 ### Solution
 
-See 3.c
+See ```03.c```

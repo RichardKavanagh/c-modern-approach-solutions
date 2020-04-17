@@ -16,3 +16,4 @@ Why doesn't this work?
 
 ### Solution
 
+The second solution could potentially return a value of 10 (i.e 0 - 10), which is incorrect

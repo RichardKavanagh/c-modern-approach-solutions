@@ -2,10 +2,13 @@
 
 Which of the following are not legal C identifiers?
 
-- (a) 100_bottles
-- (b) _100_bottles
-- (c) one_hundres_bottles
-- (d) bottles_by_the_
+(a) 100_bottles
+
+(b) _100_bottles
+
+(c) one_hundres_bottles
+
+(d) bottles_by_the_
 
 ###  Solution
 
@@ -16,3 +19,5 @@ Which of the following are not legal C identifiers?
 1.c:4:6: error: invalid suffix "_bottles" on integer constant
   int 100_bottles;
 ```
+
+See ```05.c```

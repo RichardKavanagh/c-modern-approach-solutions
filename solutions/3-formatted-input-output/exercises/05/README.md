@@ -1,6 +1,6 @@
 ### C Formatted Input/Output - Exercise 3.05
 
-Suppose that we call scanf as follows:
+Suppose that we call ```scanf``` as follows:
 
 ```scanf("%f%d%f", &x, &i, &y);```
 
@@ -12,6 +12,6 @@ what will be the values of ```x```, ```i``` and ```y``` after the call? (Assume 
 
 ### Solution
 
-See 5.c for execution
-
 12.30, 45 and 0.6
+
+See ```05.c```

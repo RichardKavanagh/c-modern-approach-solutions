@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	printf("%6d, %4d", 86, 1040);
 	printf("%12.5e", 30.253);
 	printf("%.4f", 83.162);
@@ -10,5 +9,3 @@ int main(void)
 	
 	return 0;
 }
-
-

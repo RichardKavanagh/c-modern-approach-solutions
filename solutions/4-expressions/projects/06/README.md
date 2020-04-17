@@ -24,4 +24,4 @@ Check digit: 8
 
 ### Solution
 
-See `6.c`.
+See ```06.c```

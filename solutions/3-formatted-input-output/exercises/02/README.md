@@ -9,4 +9,4 @@ Write calls of ```printf``` that display a ```float``` variable x in the followi
 
 ### Solution
 
-See 2.c
+See ```02.c```

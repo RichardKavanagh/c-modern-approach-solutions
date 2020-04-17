@@ -6,4 +6,4 @@ Hint: C doesn't have an exponentiation operator, so you'll need to multiple x by
 
 ### Solution
 
-See 5.c
+See ```05.c```

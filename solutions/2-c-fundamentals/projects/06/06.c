@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	int x, result;
 
 	printf("%s\n", "Please enter a value for x:");

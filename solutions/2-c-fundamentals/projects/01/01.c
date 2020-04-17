@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	printf("       *\n");
 	printf("      * \n");
 	printf("     *  \n");
@@ -11,5 +10,4 @@ int main(void)
 	printf("  *     \n");
 
 	return 0;
-
 }

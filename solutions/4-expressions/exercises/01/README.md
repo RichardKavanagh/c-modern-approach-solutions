@@ -15,9 +15,12 @@ Show the output produced by each of the following program fragments. Assume that
 
 ### Solution
 
-See 1.c for script
+(a) 1, 2
 
-- (a) 1, 2
-- (b) 0
-- (c) 1
-- (d) 0
+(b) 0
+
+(c) 1
+
+(d) 0
+
+See ```01.c```

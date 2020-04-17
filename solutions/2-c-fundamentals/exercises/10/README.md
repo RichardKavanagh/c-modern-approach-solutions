@@ -2,7 +2,7 @@
 
 In the dweight.c program (Section 2.4), which spaces are essential?
 
-The dweight.c program, found Section 2.4 is as follows:
+The dweight.c program, found in Section 2.4 of Chapter 4, is as follows:
 
 ```
 /* Computes the dimensional weight of a 12" x 10" x 8" box */
@@ -30,4 +30,4 @@ int main(void)
 ###  Solution
 
 The only spaces which are essential are the line break in the #include directive and its space between #include and <stdio.h> as well as the space between return and 0.
-All other spaces only serve an aesthetic purpose.
+All other spaces only serve an aesthetic purpose. 
