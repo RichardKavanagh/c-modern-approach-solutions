@@ -3,8 +3,8 @@
 Is the following ```if``` statement legal?
 
 ```
-	if (n >= 1 <= 10)
-		printf("%s\n", "n is between 1 and 10");
+if (n >= 1 <= 10)
+	printf("%s\n", "n is between 1 and 10");
 ```
 
 If so, what does it do when ```n``` is equal to 0?

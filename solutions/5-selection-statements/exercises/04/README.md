@@ -5,4 +5,8 @@ is less than, equal or greater than j respectively.
 
 ### Solution
 
+```c
+(i > j) - (i < j);
+```
+
 See ```04.c```
