@@ -13,8 +13,7 @@ int main(void) {
 		printf("%s\n", "Light air");
 	} else if (wind_speed > 4 && wind_speed < 27) {
 		printf("%s\n", "Breeze");
-	}
-	else if (wind_speed > 48 && wind_speed <= 63) {
+	} else if (wind_speed > 48 && wind_speed <= 63) {
 		printf("%s\n", "Gale");
 	} else if (wind_speed > 63) {
 		printf("%s\n", "Hurricane");

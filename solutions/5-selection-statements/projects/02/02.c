@@ -1,7 +1,7 @@
 #include "stdio.h"
 
-int main(void)
-{
+int main(void) {
+	
 	int hour, mins, time;
 
 	printf("%s", "Enter a 24-hour time: ");
