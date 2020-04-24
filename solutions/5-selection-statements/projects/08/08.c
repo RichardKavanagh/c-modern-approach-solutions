@@ -10,7 +10,10 @@ int main(void) {
 	mins_since_midnight = hour * 60 + 15;
 
 
-	
+	if (mins_since_midnight)
+	{
+		/* code */
+	}
 
 
 
