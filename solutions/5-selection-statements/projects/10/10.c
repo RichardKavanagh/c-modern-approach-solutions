@@ -3,7 +3,6 @@
 int main(void) {
 
 	int grade;
-	
 	printf("%s", "Enter numerical grade: ");
 	scanf("%d", &grade);
 

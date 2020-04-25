@@ -4,7 +4,7 @@ int main(void)
 {
 	int score = 48;
 
-	if (score >= 90)       
+	if (score >= 90)      
 		printf("A");           
 	else if (score >= 80)  
 		printf("B");           

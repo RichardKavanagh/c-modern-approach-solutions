@@ -54,8 +54,6 @@ int main(void) {
 			}			
 			break;
 		}
-
-		
 		case (0): break;
 	}
 

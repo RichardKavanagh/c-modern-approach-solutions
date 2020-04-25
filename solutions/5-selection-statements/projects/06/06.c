@@ -12,7 +12,7 @@ int main(void) {
     total = 3 * first_sum + second_sum;
     check_digit = 9 - ((total - 1) % 10);
 
-	printf("Check digit: %d\n", check_digit);
+    printf("Check digit: %d\n", check_digit);
     if (check_digit == j5) {
   		printf("%s\n", "VALID");
     } else {

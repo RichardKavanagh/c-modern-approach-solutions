@@ -20,7 +20,6 @@ int main(void) {
 	} else {
  		tax = 230.00f + (.06f * (income - 7000.00f));
  	}
-
 	printf("%s%.2f\n", "Tax due: ", tax);
 
 	return 0;
