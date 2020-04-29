@@ -13,10 +13,8 @@ int main(void) {
         temp = m % n;
         m = n;
         n = temp;
-
     } while (n != 0);
 
     printf("%s%d\n", "Greatest common divisor: ", m);
     return 0;
 }
-    
