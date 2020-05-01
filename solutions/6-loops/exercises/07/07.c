@@ -2,8 +2,7 @@
 
 int main(void) {
 
-	int i, j;
-	for (i = 5, j = i - 1; i > 0, j > 0; --i, j = i - 1) {
+    for (int i = 9384; i > 0; i /= 10) {
 		printf("%d ", i);
 	}
 
