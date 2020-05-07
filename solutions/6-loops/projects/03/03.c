@@ -2,9 +2,8 @@
 
 int main(void) {
 
-    int num, denom;
-    int n, m, temp;
-    
+    int num, denom, m, n, temp;
+
     printf("%s", "Enter a fraction: ");
     scanf("%d/%d", &num, &denom);
 

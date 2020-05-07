@@ -1,8 +1,8 @@
-### C Loops - Projects 6.01
+### C Loops - Project 6.01
 
-Write a program that finds the largest in a series of number entered by the user. 
+Write a program that finds the largest in a series of numbers entered by the user. 
 The program must prompt the user to enter numbers one by one. When the user enters 0 or a negative number, 
-the program must display the largest nonnegative number entered:
+the program must display the largest non-negative number entered:
 
 ```
 Enter a number: 60

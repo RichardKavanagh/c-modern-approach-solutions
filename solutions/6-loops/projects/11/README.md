@@ -1,4 +1,4 @@
-### C Loops - Projects 6.011
+### C Loops - Projects 6.11
 
 The value of the mathematical constant e can be expressed as an infinite series:
 

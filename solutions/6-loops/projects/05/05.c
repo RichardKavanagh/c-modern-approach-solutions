@@ -7,14 +7,12 @@ int main(void) {
     printf("%s", "Enter a n-digit number: ");
     scanf("%d", &input);
 
-	do {
-
+    do {
         first_digit = input % 10;
         input = input / 10;
         printf("%d", first_digit);
+    } while(input > 0);
 
-	} while(input > 0);
-
-	printf("\n");
-	return 0;
+    printf("\n");
+    return 0;
 }

@@ -1,4 +1,4 @@
-### C Selection Statements - Project 5.10
+### C Loops - Project 6.10
 
 Programming Project 9 in Chapter 5 asked you to write a program that determines which of two dates comes earlier on the calendar. 
 Generalize the program so that the user may enter any number of dates. 
