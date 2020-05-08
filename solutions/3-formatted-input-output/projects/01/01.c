@@ -1,12 +1,12 @@
 #include "stdio.h"
 
-int main(void)
-{
-	int day, month, year;
+int main(void) {
 
-	printf("%s", "Enter a date (mm/dd/yyyy): ");
-	scanf("%d/%d/%d", &month, &day, &year);
-	printf("%s%d%.2d%.2d\n", "You entered the date ", year, month, day);
+    int day, month, year;
 
-	return 0;
+    printf("%s", "Enter a date (mm/dd/yyyy): ");
+    scanf("%d/%d/%d", &month, &day, &year);
+    printf("%s%d%.2d%.2d\n", "You entered the date ", year, month, day);
+
+    return 0;
 }

@@ -1,10 +1,9 @@
 #include "stdio.h"
 
-int main(void)
-{
-	int i, j;
-	
-	i = 6;
+int main(void) {
+
+    int i, j;
+    i = 6;
     j = i += i;
     printf("%d %d\n", i, j);
 
@@ -20,5 +19,5 @@ int main(void)
     j = (i = 6) + (j = 3);
     printf("%d %d\n", i, j);
 
-	return 0;
+    return 0;
 }

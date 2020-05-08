@@ -1,6 +1,7 @@
 ### C Expressions - Exercise 4.07
 
 ### Exercise 4.07
+
 The algorithm for computing the UPC check digit ends with the following steps:
 
 Subtract 1 from the total.  

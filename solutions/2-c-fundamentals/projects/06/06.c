@@ -1,14 +1,14 @@
 #include "stdio.h"
 
-int main(void)
-{
-	int x, result;
+int main(void) {
 
-	printf("%s\n", "Please enter a value for x:");
-	scanf("%d", &x);
+    int x, result;
 
-	result = (((((3 * x + 2) * x - 5) * x - 1) * x + 7) * x - 6);
-	printf("%d\n", result);
+    printf("%s\n", "Please enter a value for x:");
+    scanf("%d", &x);
 
-	return 0;
+    result = (((((3 * x + 2) * x - 5) * x - 1) * x + 7) * x - 6);
+    printf("%d\n", result);
+
+    return 0;
 }

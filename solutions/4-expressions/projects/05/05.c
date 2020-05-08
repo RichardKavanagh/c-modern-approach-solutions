@@ -2,8 +2,8 @@
 
 #include <stdio.h>
 
-int main(void) 
-{
+int main(void) {
+
     int d, i1, i2, i3, i4, i5, j1, j2, j3, j4, j5, first_sum, second_sum, total, check_digit;
 
     printf("Enter the first 11 digits of a UPC: ");

@@ -4,24 +4,24 @@
 
 int main(void) {
 
-	int input;
-	printf("%s", "Please enter a number between 1 and 10 : ");
-	scanf("%d", &input);
+    int input;
+    printf("%s", "Please enter a number between 1 and 10 : ");
+    scanf("%d", &input);
 
     for (int i = 1; i <= 10; ++i) {
         if (i == input) {
-        	continue;
+            continue;
         }
         printf("%d \n", i);
     }
 
     for (int i = 1; i <= 10; ++i) {
         if (i == input) {
-        	goto loop_end;
+            goto loop_end;
         }
         printf("%d \n", i);
         loop_end: ;
     }
 
-	return 0;
+    return 0;
 }

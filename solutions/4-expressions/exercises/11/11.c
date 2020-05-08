@@ -1,10 +1,10 @@
 #include "stdio.h"
 
-int main(void)
-{
-	int i, j, k;
+int main(void) {
 
-	i = 1;
+    int i, j, k;
+
+    i = 1;
     printf("%d\n", i++ - 1);
     printf("%d\n", i);
 
@@ -20,5 +20,5 @@ int main(void)
     printf("%d \n", i++ - j++ + --k);
     printf("%d, %d, %d\n", i, j, k);
 
-	return 0;
+    return 0;
 }

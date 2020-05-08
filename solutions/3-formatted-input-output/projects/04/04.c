@@ -1,13 +1,13 @@
 #include "stdio.h"
 
-int main(void)
-{
-	int prefix, area_code, house;
-	
-	printf("%s", "Enter phone number [(xxx) xxx-xxxx]: ");
+int main(void) {
 
-	scanf("(%d) %d-%d", &prefix, &area_code, &house);
-	printf("%s%d.%d.%d\n", "You entered ", prefix, area_code, house);
+    int prefix, area_code, house;
+    
+    printf("%s", "Enter phone number [(xxx) xxx-xxxx]: ");
 
-	return 0;
+    scanf("(%d) %d-%d", &prefix, &area_code, &house);
+    printf("%s%d.%d.%d\n", "You entered ", prefix, area_code, house);
+
+    return 0;
 }

@@ -1,13 +1,13 @@
 #include "stdio.h"
 
-int main(void)
-{
-	printf("       *\n");
-	printf("      * \n");
-	printf("     *  \n");
-	printf("*   *   \n");
-	printf(" * *    \n");	
-	printf("  *     \n");
+int main(void) {
 
-	return 0;
+    printf("       *\n");
+    printf("      * \n");
+    printf("     *  \n");
+    printf("*   *   \n");
+    printf(" * *    \n");   
+    printf("  *     \n");
+
+    return 0;
 }

@@ -2,7 +2,7 @@
 
 int main(void) {
 
-	int n, m;
+    int n, m;
     for (n = 0; m > 0; n++) {
          m /= 2;
     }
@@ -11,5 +11,5 @@ int main(void) {
         ;
     }
 
-	return 0;
+    return 0;
 }

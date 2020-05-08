@@ -1,12 +1,12 @@
 #include "stdio.h"
 
-int main(void)
-{
-	float x, y;
-	int i;
+int main(void) {
 
-	scanf("%f%d%f", &x, &i, &y);
-	printf("%f\n%d\n%f\n", x, i, y);
+    float x, y;
+    int i;
 
-	return 0;
+    scanf("%f%d%f", &x, &i, &y);
+    printf("%f\n%d\n%f\n", x, i, y);
+
+    return 0;
 }

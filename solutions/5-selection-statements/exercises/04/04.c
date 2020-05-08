@@ -1,12 +1,11 @@
 #include "stdio.h"
 
-int main(void)
-{
-	int i, j;
-	i = 2;
-	j = 1;
+int main(void) {
 
-	printf("%d\n", (i > j) - (i < j));
+    int i, j;
+    i = 2;
+    j = 1;
+    printf("%d\n", (i > j) - (i < j));
 
-	return 0;
+    return 0;
 }
