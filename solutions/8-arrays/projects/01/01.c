@@ -27,7 +27,7 @@ int main(void) {
     }
 
     if (repeated) {
-        printf("%s", "Repeated digit(s) :");
+        printf("%s", "Repeated digit(s) : ");
         for (int i = 0; i < BASE; ++i) {
             if (digit_repeated[i]) {
                 printf("%d%s", i, " ");
