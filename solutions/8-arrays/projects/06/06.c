@@ -21,26 +21,14 @@ int main(void) {
     for (int i = 0; i < N; ++i) {
         ch = input[i];
         switch(ch) {
-            case 'a':
-                input[i] = '4';
-                break;
-            case 'b':
-                input[i] = '8';
-                break;
-            case 'e':
-                input[i] = '3';
-                break;
-            case 'i':
-                input[i] = '1';
-                break;
-            case 'o':
-                input[i] = '0';
-                break;
-            case 's':
-                input[i] = '5';
-                break;
-            default:
-                input[i] = toupper(ch);
+            case 'a': input[i] = '4'; break;
+            case 'b': input[i] = '8'; break;
+            case 'e': input[i] = '3'; break;
+            case 'i': input[i] = '1'; break;
+            case 'o': input[i] = '0'; break;
+            case 's': input[i] = '5'; break;
+            /* Fall through so all characters converted */
+            default: input[i] = toupper(ch);
         }
     }
 
