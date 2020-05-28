@@ -9,9 +9,7 @@ int main(void) {
     printf("%s", "Enter a first and last name: ");
 
     first_inital = getchar();
-    while ((getchar()) != ' ') {
-        ;
-    }
+    while ((getchar()) != ' ') { ; }
     
     while ((ch = getchar()) != '\n') {
         last_name[len] = ch;
