@@ -6,7 +6,6 @@ int main(void) {
 
     for (int i = 0; i < CHECKER_DIM; ++i) {
         for (int j = 0; i < CHECKER_DIM; ++i) {
-
             if (i + j % 2 == 0) {
                 checker_board[i][j] = 'B';
             } else {
